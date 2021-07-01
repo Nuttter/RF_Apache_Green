@@ -4,4 +4,15 @@ This is a free retexture for anybody to use.
 
 Helicopter scripts can be found at SIBNIC Moddayz https://github.com/moddayz
 
-Update: Error with Config.cpp causing helicopter configs to generate a default setting on each server restart.
+**Classnames**
+* Heli_apache_green
+* apache_Door_1_1_green
+* apache_Door_2_1_green
+* apache_blade1
+* apache_blade2
+* apache_blade3
+* apache_blade3
+* apache_bladem1
+* apache_bladem2
+* apache_bladem3
+* apache_bladem4
